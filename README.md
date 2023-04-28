@@ -38,8 +38,16 @@
 
 ## Projects
 ### FarAway
-사용자 기반 추천을 통해 한국의 다양한 관광지, 먹거리, 축제, 행사 등을 검색할 수 있는 추천 기반 지역 관광 소개 페이지
-[Github Repository](https://github.com/SSAFY-FarAway/far_away)
+'사용자 기반 추천을 통해 한국의 다양한 관광지, 먹거리, 축제, 행사 등을 검색할 수 있는 추천 기반 지역 관광 소개 페이지'
+- 담당 : BackEnd
+- 기간 : 2023.04 ~ 2023.05
+- Repository : https://github.com/SSAFY-FarAway/far_away
+
+### Ma!fia
+
+### CGVR LAB
+
+### 딥러닝 모델을 이용한 졸음 감지 서비스
 
 ## Problem Solving
 ### BOJ Rank
