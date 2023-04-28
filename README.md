@@ -36,11 +36,18 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-## Study
+## Projects
+### FarAway
+사용자 기반 추천을 통해 한국의 다양한 관광지, 먹거리, 축제, 행사 등을 검색할 수 있는 추천 기반 지역 관광 소개 페이지
+[Github Repository](https://github.com/SSAFY-FarAway/far_away)
 
+## Problem Solving
 ### BOJ Rank
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudghks97)](https://solved.ac/dudghks97)
+
+#### Language : <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 
 ## Contacts
 <p>
