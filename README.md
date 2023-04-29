@@ -44,21 +44,23 @@
 - Repository : https://github.com/SSAFY-FarAway/far_away
 
 ### Ma!fia
+- 작성중
 
 ### CGVR LAB
+- 작성중
 
 ### 딥러닝 모델을 이용한 졸음 감지 서비스
+- 작성중
 
 ## Problem Solving
 ### BOJ Rank
+#### Language : <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudghks97)](https://solved.ac/dudghks97)
 
-#### Language : <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
-
 ## Contacts
 <p>
-  <a href="https://velog.io/@longBright"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@longBright"/></a>&nbsp
+  <a href="https://velog.io/@longbright_choi"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@longBright"/></a>&nbsp
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
