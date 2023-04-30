@@ -38,25 +38,25 @@
 ## Projects
 ### FarAway
 '사용자 기반 추천을 통해 한국의 다양한 관광지, 먹거리, 축제, 행사 등을 검색할 수 있는 추천 기반 지역 관광 소개 페이지'
-- 담당 : BackEnd
+- 담당 : BackEnd 개발 (게시판 REST API 개발)
 - 기간 : 2023.04 ~ 2023.05
 - Repository : https://github.com/SSAFY-FarAway/far_away
 
 ### Ma!fia
 '얼굴형, 퍼스널 컬러, 날씨별 마스크를 추천하고, 가상 착용을 포함한 다양한 부가 기능을 제공하는 안드로이드 앱'
-- 담당 : 팀장, AWS EC2 서버 구축, 얼굴형 분류 딥러닝 모델 학습, 앱 개발
+- 담당 : 팀장, AWS EC2 서버 구축, 얼굴형 분류 딥러닝 모델 학습
 - 기간 : 2022.04 ~ 2022.11
 - Repository : https://github.com/longBright/Hanium_Prj
 
 ### CGVR LAB
 '서경대학교 컴퓨터 공학과 컴퓨터 그래픽스 & 가상현실 연구실(CGVR LAB) 홈페이지'
-- 담당 : Ubuntu 서버 구축, BackEnd 개발
+- 담당 : Ubuntu 서버 구축, BackEnd 개발 (게시판 REST API 개발)
 - 기간 : 2022.07 ~ 2022.09
 - Repository : https://github.com/JoSihun/CGVR_Lab
 
 ### Task Manager - Don't Sleep!
-'딥러닝 모델을 이용한 졸음 감지 페이지'
-- 담당 : 팀장, AWS EC2 서버 구축, BackEnd 개발
+'눈 깜빡임 감지 딥러닝 모델을 이용한 졸음 감지 서비스 페이지'
+- 담당 : 팀장, AWS EC2 서버 구축, BackEnd 개발 (졸음감지, 눈 깜빡임 횟수 부족 측정 알고리즘 개발)
 - 기간 : 2021.04 ~ 2021.11
 - Repository : https://github.com/longBright/2021_Hanium
 
