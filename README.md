@@ -20,7 +20,7 @@
 ### BackEnd
 <!-- Language -->
 <p>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 <!-- FrameWork -->
@@ -28,9 +28,27 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 </p>
 
+<!-- Library -->
+<p>
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
+<img src="https://img.shields.io/badge/QueryDSL-007396?style=for-the-badge&logo=querydsl&logoColor=white">
+<img src="https://img.shields.io/badge/MyBatis-7D929E?style=for-the-badge&logo=mybatis&logoColor=white">
+</p>
+
 <!-- DBMS -->
 <p>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+<!-- Server -->
+<p>
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</p>
+<p>
+<img src="https://img.shields.io/badge/nginx-889639?style=for-the-badge&logo=nginx&logoColor=white">
+</p>
+<p>
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 </p>
 
 ### FrontEnd
