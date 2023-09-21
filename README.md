@@ -4,6 +4,8 @@
 ## Introduction
 😀  꾸준함으로 성과를 내는 개발자, 최영환입니다. 😃
 
+더 자세한 내용은 [Notion 이력서](https://longbright0804.notion.site/0bfbb9d898c0481b85237f2ffa89b2b5?pvs=4) 를 확인해주세요
+
 ## Education
 - 삼성 청년 SW 아카데미 (SSAFY) 9기 (2023.01 ~ )
 - 서경대학교 컴퓨터공학과 졸업 (2016.03 ~ 2023.02)
@@ -13,9 +15,8 @@
 - 정보처리기사 - 한국산업인력공단 (2021.08.20)
 
 ## Awards
-- 삼성 청년 SW 아카데미 (SSAFY) 프로젝트 경진 대회 최우수상 - 삼성전자 (2023.05.29)
-- 2022 한이음 ICT 공모전 입선 - 한국정보산업연합회 (2022.11.30)
-- 2021 한이음 ICT 공모전 입선 - 한국정보산업연합회 (2021.11.15)
+- 신한 해커톤 with SSAFY **본선 진출** - 신한은행 (2023.09.17)
+- 삼성 청년 SW 아카데미 (SSAFY) 프로젝트 경진대회 **최우수상** - 삼성전자 (2023.05.29)
 
 ## Skills
 
@@ -78,38 +79,19 @@
 </p>
 
 ## Projects
-### MeReview
-'영화 리뷰 공유 및 추천 사이트'
-- 담당 : BackEnd 개발 (리뷰 게시판 REST API 개발)
-- 기간 : 2023.07 ~ 2023.08 (개발 진행 중)
-- Repository : 미공개(공개 심사 중)
+### 챙겨요
+'QR 코드를 활용한 보증금/환납금 간편 송금 및 반환 시스템'
+- 담당 : BackEnd 개발 (보증금/환납금 송금, 반환, 조회 REST API 개발)
+- 기간 : 2023.09
+- 성과 : 신한 해커톤 with SSAFY 본선 진출
+- Repository : https://github.com/Team-Changyo/Changyo
 
 ### FarAway
 '사용자 기반 추천을 통해 한국의 다양한 관광지, 먹거리, 축제, 행사 등을 검색할 수 있는 추천 기반 지역 관광 소개 페이지'
-- 담당 : BackEnd 개발 (게시판 REST API 개발)
+- 담당 : BackEnd 개발 (여행지 검색, 여행 계획 공유, 핫플레이스, 게시판 REST API 개발)
 - 기간 : 2023.04 ~ 2023.05
-- 결과 : 삼성 SW 아카데미 9기 1학기 최우수 프로젝트 수상
+- 성과 : 삼성 청년 SW 아카데미 프로젝트 경진대회 최우수상 수상
 - Repository : https://github.com/SSAFY-FarAway/far_away
-
-### Ma!fia
-'얼굴형, 퍼스널 컬러, 날씨별 마스크를 추천하고, 가상 착용을 포함한 다양한 부가 기능을 제공하는 안드로이드 앱'
-- 담당 : 팀장, AWS EC2 서버 구축, 얼굴형 분류 딥러닝 모델 학습
-- 기간 : 2022.04 ~ 2022.11
-- 결과 : 2022 한이음 공모전 입선 수상
-- Repository : https://github.com/longBright/Hanium_Prj
-
-### CGVR LAB
-'서경대학교 컴퓨터 공학과 컴퓨터 그래픽스 & 가상현실 연구실(CGVR LAB) 홈페이지'
-- 담당 : Ubuntu 서버 구축, BackEnd 개발 (게시판 REST API 개발)
-- 기간 : 2022.07 ~ 2022.09
-- Repository : https://github.com/JoSihun/CGVR_Lab
-
-### Task Manager - Don't Sleep!
-'눈 깜빡임 감지 딥러닝 모델을 이용한 졸음 감지 서비스 페이지'
-- 담당 : 팀장, AWS EC2 서버 구축, BackEnd 개발 (졸음감지, 눈 깜빡임 횟수 부족 측정 알고리즘 개발)
-- 기간 : 2021.04 ~ 2021.11
-- 결과 : 2021 한이음 공모전 입선 수상
-- Repository : https://github.com/longBright/2021_Hanium
 
 ## Problem Solving
 ### BOJ Rank
