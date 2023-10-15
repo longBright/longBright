@@ -4,7 +4,7 @@
 ## Introduction
 😀  꾸준함으로 성과를 내는 개발자, 최영환입니다. 😃
 
-더 자세한 내용은 [Notion 이력서](https://longbright0804.notion.site/0bfbb9d898c0481b85237f2ffa89b2b5?pvs=4) 를 확인해주세요
+더 자세한 내용은 [Notion 이력서](https://longbright0804.notion.site/8c7087a96b1b4373bd613f52940d565b?pvs=4) 를 확인해주세요
 
 ## Education
 - 삼성 청년 SW 아카데미 (SSAFY) 9기 (2023.01 ~ )
