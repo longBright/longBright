@@ -47,12 +47,17 @@
 
 </p>
 
+### DataBase
 <!-- DBMS -->
 <p>
+<img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
-<!-- Server -->
+### Infra
+<!-- Infra -->
 <p>
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
@@ -61,6 +66,7 @@
 </p>
 <p>
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 </p>
 
 ### FrontEnd
@@ -88,6 +94,12 @@
 </p>
 
 ## Projects
+### 당근트럭
+'작성중'
+
+### 뉴키즈
+'작성중'
+
 ### 챙겨요
 'QR 코드를 활용한 보증금/환납금 간편 송금 및 반환 시스템'
 - 담당 : BackEnd 개발 (보증금/환납금 송금, 반환, 조회 REST API 개발)
