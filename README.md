@@ -95,24 +95,26 @@
 
 ## Projects
 ### 당근트럭
-'작성중'
+'푸드트럭 주문 및 영업 관리 서비스'
+- 담당 : BackEnd 개발 (푸드트럭 관련 API, 회원 관련 API, 결제 API)
+- 인원 / 기간 : 6인 / 2023.10 ~ 2023.11 (6주)
+- 성과 : 프로젝트 개발 완료
+- Repository : https://github.com/Carrot-Truck/carrottruck
 
-### 뉴키즈
-'작성중'
 
 ### 챙겨요
 'QR 코드를 활용한 보증금/환납금 간편 송금 및 반환 시스템'
 - 담당 : BackEnd 개발 (보증금/환납금 송금, 반환, 조회 REST API 개발)
-- 기간 : 2023.09
+- 기간 : 2023.09 (4주)
 - 성과 : 신한 해커톤 with SSAFY 본선 진출
 - Repository : https://github.com/Team-Changyo/Changyo
 
 ### FarAway
 '사용자 기반 추천을 통해 한국의 다양한 관광지, 먹거리, 축제, 행사 등을 검색할 수 있는 추천 기반 지역 관광 소개 페이지'
 - 담당 : BackEnd 개발 (여행지 검색, 여행 계획 공유, 핫플레이스, 게시판 REST API 개발)
-- 기간 : 2023.04 ~ 2023.05
+- 기간 : 2023.04 ~ 2023.05 (4주)
 - 성과 : 삼성 청년 SW 아카데미 프로젝트 경진대회 최우수상 수상
-- Repository : https://github.com/SSAFY-FarAway/far_away
+- Repository : [BE] https://github.com/SSAFY-FarAway/faraway-server / [FE] https://github.com/SSAFY-FarAway/faraway-client
 
 ## Problem Solving
 ### BOJ Rank
