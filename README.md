@@ -7,7 +7,7 @@
 더 자세한 내용은 [Notion 이력서](https://longbright0804.notion.site/8c7087a96b1b4373bd613f52940d565b?pvs=4) 를 확인해주세요
 
 ## Education
-- 삼성 청년 SW 아카데미 (SSAFY) 9기 (2023.01 ~ )
+- 삼성 청년 SW 아카데미 (SSAFY) 9기 수료 (2023.01 ~ 2023.12)
 - 서경대학교 컴퓨터공학과 졸업 (2016.03 ~ 2023.02)
 
 ## Certificate
@@ -18,6 +18,8 @@
 - 삼성 청년 SW 아카데미 (SSAFY) 프로젝트 경진대회 **우수상(3등)** - 삼성전자 (2023.10.06)
 - 신한 해커톤 with SSAFY **본선 진출** - 신한은행 (2023.09.17)
 - 삼성 청년 SW 아카데미 (SSAFY) 프로젝트 경진대회 **최우수상(1등)** - 삼성전자 (2023.05.29)
+- 2022 한이음 공모전 **입선** - 한국정보산업연합회 (2022.11.30)
+- 2021 한이음 공모전 **입선** - 한국정보산업연합회 (2021.11.15)
 
 ## Skills
 
@@ -54,6 +56,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 </p>
 
 ### Infra
@@ -94,11 +97,16 @@
 </p>
 
 ## Projects
+### 이리온
+'유기동물 입양 및 실종동물을 찾아주는 서비스'
+- 담당 : BackEnd 총괄 및 개발 (유기동물 게시판 관련, 게시판 API)
+- 인원 / 기간 : 6인 / 2024.01 ~ 2024.04 (예정)
+- Repository : https://github.com/UhPoo/ireon-server
+
 ### 당근트럭
 '푸드트럭 주문 및 영업 관리 서비스'
 - 담당 : BackEnd 개발 (푸드트럭 관련 API, 회원 관련 API, 결제 API)
 - 인원 / 기간 : 6인 / 2023.10 ~ 2023.11 (6주)
-- 성과 : 프로젝트 개발 완료
 - Repository : https://github.com/Carrot-Truck/carrottruck
 
 
