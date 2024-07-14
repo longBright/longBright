@@ -1,10 +1,8 @@
 <!--![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Hi%20I'm%20YoungHwan&20render&fontSize=90)-->
-# 👨‍💻 Backend Engineer, Web Developer 최영환
+# 👨‍💻 끝없이 배우고 고민하는 개발자, 최영환입니다.
 
-## Introduction
-😀  끝없이 배우고 고민하는 개발자, 최영환입니다. 😃
-
-**저는 팀의 일원이 되어 그 안에서 중요한 사람이 되고, 멈추지 않는 사람이 되는 것이 목표입니다!**
+## About Me
+### 😃 저는 팀의 일원이 되어 그 안에서 중요한 사람이 되고, 멈추지 않는 사람이 되는 것이 목표입니다! 😃
 
 **유지보수가 쉽고, 쉽게 읽히는 코드를 작성하기 위해 노력합니다.**
 - 관련 도서를 읽고 고민하며 프로젝트마다 개선해왔습니다. (ex. 클린코드 독서, 공통 리스폰스 사용, CQRS 패턴 적용)
