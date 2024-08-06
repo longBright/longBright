@@ -104,11 +104,11 @@
 
 ## Projects
 
-### 이리온
-'유기동물 입양 및 실종동물을 찾아주는 서비스'
-- 담당 : BackEnd 총괄 및 개발 (유기동물 게시판 관련, 게시판 API)
-- 인원 / 기간 : 6인 / 2024.01 ~ 2024.04 (예정)
-- Repository : https://github.com/UhPoo/ireon-server
+### Grow-Up - PMS
+'프로젝트 일정 관리 플랫폼'
+- 담당 : BackEnd 개발 (프로젝트 상태, 프로젝트 상태 일정 관련 API)
+- 인원 / 기간 : 7인 / 2024.07 ~ 2024.08
+- Repository : https://github.com/GU-99/grow-up-pms
 
 ### 당근트럭
 '푸드트럭 주문 및 영업 관리 서비스'
@@ -130,6 +130,10 @@
 - 기간 : 2023.04 ~ 2023.05 (4주)
 - 성과 : 삼성 청년 SW 아카데미 프로젝트 경진대회 최우수상 수상
 - Repository : [BE] https://github.com/SSAFY-FarAway/faraway-server / [FE] https://github.com/SSAFY-FarAway/faraway-client
+
+## Study
+### GU
+프로젝트 관리 플랫폼을 시작으로 다양한 플랫폼, 서비스를 개발하는 프로젝트 스터디
 
 ## Problem Solving
 ### BOJ Rank
